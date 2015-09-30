@@ -1,6 +1,6 @@
 # C Language
 <h3>Assignment TCP/IP : Lecturer Dr. Anang</h3>
-C++ code to find eth0 in linux
+Client and server program assignment based on socket programming in linux environment
 
 <h2> Group Member </h2>
 1. Azihanafi Mohd Dakir 1111115003
@@ -16,9 +16,9 @@ All work distribution are equally divided among members
 
 <h2>Output result</h2>
 
-![server.c](https://cloud.githubusercontent.com/assets/13751130/10186143/5f8a3b2e-6781-11e5-91d9-c9f7e17f66c9.png)
+![server.c](https://cloud.githubusercontent.com/assets/13751130/10186143/5f8a3b2e-6781-11e5-91d9-c9f7e17f66c9.png "server.c")
 
-![client.c](https://cloud.githubusercontent.com/assets/13751130/10186141/5f2fa5c4-6781-11e5-856d-71157c28fa9e.png)
+![client.c](https://cloud.githubusercontent.com/assets/13751130/10186141/5f2fa5c4-6781-11e5-856d-71157c28fa9e.png "client.c")
 
 ![user menu](https://cloud.githubusercontent.com/assets/13751130/10186146/5fc0fef2-6781-11e5-8093-1be24240e14d.png)
 
